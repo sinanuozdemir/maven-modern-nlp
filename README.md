@@ -8,8 +8,8 @@ To use the code, clone the repository and install the required packages specifie
 ## Lesson 1: Intro to LLMs and Getting Started with BERT
 
 ### Slides
-- [Introduction to Language Modeling](slides/Maven - LLM Intro.pdf)
-- [Introduction to BERT](slides/Maven - Intro to BERT.pdf)
+- [Introduction to Language Modeling](slides/Maven%20-%20LLM%20Intro.pdf)
+- [Introduction to BERT](slides/Maven%20-%20Intro%20to%20BERT.pdf)
 
 ### Code
 - [Off-the-Shelf BERT](notebooks/off_the_shelf_bert.ipynb)
