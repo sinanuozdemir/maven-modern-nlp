@@ -1,0 +1,4 @@
+*.DS_Store
+notebooks/clf/*
+notebooks/ir/*
+*.ipynb_checkpoints
