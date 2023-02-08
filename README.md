@@ -1,4 +1,4 @@
-# Introduction to Language Modeling with BERT
+# Introduction to Language Modeling with BERT, GPT3, and more!
 
 This repository contains materials for our class on language modeling. 
 
