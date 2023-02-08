@@ -23,6 +23,9 @@ To use the code, clone the repository and install the required packages specifie
 Mapping out a prototype with a mind for production
 ![](images/Conversation%20Q_A%20Prototype.png)
 
+## Slides
+- [Training + Fine-tuning in PyTorch](slides/Maven%20-%20Huggingface%20+%20Training%20Loops.pdf)
+
 ### Code
 - [Conversational FLAN-T5](notebooks/t5_conv.ipynb)
 
