@@ -16,3 +16,13 @@ To use the code, clone the repository and install the required packages specifie
 - [Finetuning BERT for Classification](notebooks/finetuning_bert_classification.ipynb)
 	- Data: [Disaster detection From Kaggle](https://www.kaggle.com/c/nlp-getting-started)
 - [BERT for Information Retrieval](notebooks/bert_information_retrieval.ipynb)
+
+
+## Lesson 2: Querying Conversations with FLAN-T5
+
+Mapping out a prototype with a mind for production
+![](images/Conversation%20Q_A%20Prototype.png)
+
+### Code
+- [Conversational FLAN-T5](notebooks/t5_conv.ipynb)
+
