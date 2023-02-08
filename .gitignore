@@ -1,4 +1,7 @@
 *.DS_Store
+notebooks/flan-t5-small-samsum/
+notebooks/flan-t5-small-samsum-conv_qa/
+notebooks/conv_answer_similarity/
 notebooks/clf/*
 notebooks/ir/*
 *.ipynb_checkpoints
