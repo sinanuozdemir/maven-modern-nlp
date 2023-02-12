@@ -21,11 +21,21 @@ To use the code, clone the repository and install the required packages specifie
 ## Lesson 2: Querying Conversations with FLAN-T5
 
 Mapping out a prototype with a mind for production
-![](images/Conversation%20Q_A%20Prototype.png)
+![](images/Convesation%20Q_A%20Prototype.png)
 
 ## Slides
 - [Training + Fine-tuning in PyTorch](slides/Maven%20-%20Huggingface%20+%20Training%20Loops.pdf)
 
 ### Code
 - [Conversational FLAN-T5](notebooks/t5_conv.ipynb)
+
+
+## Lesson 3: Introduction to OpenAI
+
+## Slides
+
+### Code
+- [OpenAI Prompting 101](notebooks/openai_prompting_101.ipynb)
+- [OpenAI Embeddings 101](notebooks/openai_embeddings_101.ipynb)
+
 
