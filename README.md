@@ -33,6 +33,7 @@ Mapping out a prototype with a mind for production
 ## Lesson 3: Introduction to OpenAI
 
 ## Slides
+- [GPT Attention + Parameters](slides/Maven%20-%20GPT%20Parameters.pdf)
 
 ### Code
 - [OpenAI Prompting 101](notebooks/openai_prompting_101.ipynb)
