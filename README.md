@@ -45,6 +45,6 @@ Mapping out a prototype with a mind for production
 
 ### Code
 
-- [OpenAI Prompting 201](notebooks/openai_prompting_101.ipynb)
+- [OpenAI Prompting 201](notebooks/openai_prompting_201.ipynb)
 - [OpenAI Embeddings 101](notebooks/openai_embeddings_101.ipynb)
 - [OpenAI Finetuning 101](notebooks/openai_finetuning.ipynb)
