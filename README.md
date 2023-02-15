@@ -37,6 +37,14 @@ Mapping out a prototype with a mind for production
 
 ### Code
 - [OpenAI Prompting 101](notebooks/openai_prompting_101.ipynb)
+
+## Lesson 4: Advanced OpenAI Usage
+
+### Data
+[Sample OpenAI Fine-tuning data](data/openai-fine-tuning-10.jsonl)
+
+### Code
+
+- [OpenAI Prompting 201](notebooks/openai_prompting_101.ipynb)
 - [OpenAI Embeddings 101](notebooks/openai_embeddings_101.ipynb)
-
-
+- [OpenAI Finetuning 101](notebooks/openai_finetuning.ipynb)
